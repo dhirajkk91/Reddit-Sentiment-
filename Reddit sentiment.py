@@ -11,9 +11,9 @@ import re
 
 import praw
 reddit = praw.Reddit(
-    client_id="eXHHZI-7VtG9RHb2nC6Gug",
-    client_secret="UqX81wlan36NuFEvkQ_fhTCSfw30Lw",
-    user_agent="test by /u/Professional_Split21"
+    client_id="_________",
+    client_secret="_________",
+    user_agent="test by /u/username"
 )
 
 
