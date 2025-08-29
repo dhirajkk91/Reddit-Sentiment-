@@ -1,0 +1,8 @@
+pandas
+matplotlib
+transformers
+torch
+praw
+scikit-learn
+requests
+python-dotenv
